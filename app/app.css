@@ -1,0 +1,110 @@
+
+.container {
+    display: block; 
+    cursor: zoom-in;
+    background-color: blue; 
+    border: 1px solid blue; 
+    width: 60%;
+    margin: 23px;
+    border-radius: 25px;
+    
+}
+.main-container { 
+
+     width: 103%;
+     padding: 20px;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     font-weight: 6px;
+ } 
+ button {
+    border: 1px solid blanchedalmond;
+    border-radius: 10px;
+    padding: 10px;
+    background: blue;
+    color: whitesmoke;
+    font: caption;
+    font-size: smaller;
+ }
+ /* Diving the  */
+.float-right-child {
+    width: 43%;
+    display: inline-block;
+    display: inline-block;
+}
+.float-child-left {
+    width: 43%; 
+    display: inline-block;
+    display: inline-block;
+}
+
+img {
+    /* The css design for the img */
+    overflow-clip-margin: content-box;
+    overflow: clip;
+    border-radius: 17px;
+    font-weight: bold;
+    background-color: white;
+    color: antiquewhite;
+    padding: 8px;
+}
+section {
+    background-color:whitesmoke;
+    padding: 10px;
+    width: 90%;
+    border-radius: 10px;
+    border: 1px solid blue; 
+}
+/* The input field css */
+.child-descedant {
+    border: 1px solid blue;
+    padding: 30px;
+    width: 100%;
+    padding-top: 10px;
+    background-color: blue; 
+    color: white;
+    border-radius: 5px;
+    font-style: italic;
+}
+.child-descedant p {
+    text-transform: lowercase;
+} 
+/* Css for the button element */
+ .float-right-child button { 
+     width: 60%; 
+     padding: 10px; 
+     border-radius: 17px; 
+     background-color: rgba(0, 13, 255, 0.786); 
+     color: white; 
+     cursor: cell; 
+ } 
+ #btn-h2 {
+    color: #0000ff;
+    font-family: sans-serif;
+    font-weight: 10px;
+ }
+ .para {
+    color:  rgb(173,216,230);
+    font-weight: bolder;
+    font-size: 15px;
+ }
+ /* The create profile section */
+.btn-p {
+    width: 10rem;
+    color: blue;
+    border: 1px solid blue;
+    border-radius: 25px;
+    margin-top: 20px;
+    padding: 5px;
+    text-align: center;
+    font-size: smaller;
+    
+}
+.div-h3 {
+    color: lightseagreen;
+    font-weight: lighter;
+    font-size: 20px;
+    font-style: normal;
+    font-family: sans-serif;
+}
+ 
+
